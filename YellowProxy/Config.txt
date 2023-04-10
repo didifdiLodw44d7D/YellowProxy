@@ -1,0 +1,5 @@
+ListenIP="127.0.0.1:80"
+#ListenURL="tomikin.mesopota.jp:80"
+RewriteURL="koneko.tokyo:80"
+Cert=""
+PrivateKey=""
